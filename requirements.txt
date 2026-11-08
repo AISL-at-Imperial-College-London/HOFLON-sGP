@@ -1,0 +1,12 @@
+# Versions used for the paper results
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+xgboost==3.4.1          # xgboost-cpu==3.4.1 also works; this version reproduces the published HOFLON runs exactly
+joblib==1.6.0
+matplotlib==3.11.2
+jax[cpu]==0.12.0.1      # Matern-5/2 critic training (poly_learn_Q_sgp_matern.py)
+# Optional: squared-exponential comparison critics (poly_learn_Q_sgp_gpytorch.py) and torch-based AAE loading
+# torch==2.4.1
+# gpytorch==1.15.2
