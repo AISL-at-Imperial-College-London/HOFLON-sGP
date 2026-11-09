@@ -140,13 +140,13 @@ inputs are learned, so this is not a pure kernel comparison.
 
 ## Authors and citation
 
-Marco Chan, Christos Evripidou, Benoît Chachuat and Mehmet Mercangöz, Sargent Centre for Process Systems Engineering,
+Marco Chan, Christos Evripidou, Liqui Dong, Benoît Chachuat and Mehmet Mercangöz, Sargent Centre for Process Systems Engineering,
 Department of Chemical Engineering, Imperial College London, London SW7 2AZ, UK.
 Corresponding author: M. Mercangöz (m.mercangoz@imperial.ac.uk).
 
 ```bibtex
 @unpublished{chan2027hoflonsgp,
-  author = {Chan, Marco and Evripidou, Christos and Chachuat, Beno{\^i}t and Mercang{\"o}z, Mehmet},
+  author = {Chan, Marco and Evripidou, Christos and Dong, Liqui and Chachuat, Beno{\^i}t and Mercang{\"o}z, Mehmet},
   title  = {Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection
             Using Sparse {G}aussian-Process Critics},
   note   = {Manuscript submitted to the European Control Conference (ECC) 2027},
